@@ -11,3 +11,63 @@
     color:red;
     background-color: blue;
 }
+
+.mission {
+    padding: 20px;
+    color:blue;
+    margin: 1;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: antiquewhite;
+    border: 10px black;
+    
+}
+
+#titleheader {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.list {
+    padding: 30px;
+    color:brown;
+    margin: 1;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: antiquewhite;
+    border: 10px black;
+}
+
+.vision {
+    padding: 30px;
+    color:green;
+    margin: 1;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: antiquewhite;
+    border: 10px black;
+}
+
+.links {
+    padding: 10px;
+    color: aquamarine;
+    margin: 1;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: antiquewhite;
+    border: 10px black;
+}
+
+#smallheader {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#learnimage {
+    width: 15%;
+    height: 15%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 5px;
+}
+
+#image {
+    width: 5%;
+    height: 5%;
+}
