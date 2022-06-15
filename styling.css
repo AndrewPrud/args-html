@@ -11,3 +11,17 @@
     color:red;
     background-color: blue;
 }
+
+.lifeNavH1{
+    color: cadetblue;
+    border-width: 20px;
+    border-color: cadetblue;
+}
+
+.roundborder{
+    border-radius: 50%;
+}
+
+.colorback{
+    background-color: cadetblue;
+}
